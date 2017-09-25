@@ -1,0 +1,11 @@
+div {
+    height: 150px;
+    width: 600px;
+    background-color: gold;
+}
+body {
+    background-image: url(https://image.freepik.com/free-vector/celebration-background-of-balloons-and-confetti_1048-2223.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
