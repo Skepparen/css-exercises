@@ -1,0 +1,7 @@
+article:before {
+     content:url(https://i.pinimg.com/236x/d8/56/92/d856929e39b1add53f899fc559f9455a--illustration-cupcake-illustration-tumblr.jpg)
+}
+
+article::first-line {
+    color: red;
+}
