@@ -1,0 +1,61 @@
+header {
+    height: 100px;
+    background-color: rosybrown;
+    display: flex;
+    justify-content: center;
+    position: static;
+
+
+}
+figure img#bild {
+    display: inline-block;
+    float: left;
+}
+
+}
+figure img#bild2 {
+    display: inline-block;
+    float: left;
+}
+figure img#bild3 {
+    display: flex;
+    justify-content: flex-end;
+}
+aside {
+    clear: right;
+}
+.resize {
+    width: 200px;
+    height: auto;
+}
+
+.resize2 {
+    width: 200px;
+    height: auto;
+}
+.table {
+    display: table;
+    margin:0 auto;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+
+}
+ul#horizontal-list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding-top: 0px;
+}
+ul#horizontal-list li {
+    display: inline;
+
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: rosybrown;
+}
